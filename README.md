@@ -11,12 +11,17 @@ This project provides an interactive environment for users to filter and choose 
 
 ### Files used
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
 
 ### Credits
 
-Udacity
-Github
-stackoverflow
-Google
+[Udacity](https://www.udacity.com)
+
+[Github Docs](https://docs.github.com/en)
+
+[stackoverflow](https://stackoverflow.com)
+
+[DataCamp](https://www.datacamp.com)

@@ -1,4 +1,4 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
 This project is created in 28/8/2021
@@ -11,12 +11,17 @@ This project provides an interactive environment for users to filter and choose 
 
 ### Files used
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
 
 ### Credits
 
-Udacity
-Github
-stackoverflow
-Google
+[Udacity](https://www.udacity.com)
+
+[Github Docs](https://docs.github.com/en)
+
+[stackoverflow](https://stackoverflow.com)
+
+[DataCamp](https://www.datacamp.com)

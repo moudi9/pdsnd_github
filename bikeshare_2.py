@@ -174,7 +174,7 @@ def user_stats(df):
         print("There is no gender information in this city.")
 
 
-    # TO DO: display earliest, most recent, and most common year of birth
+    # TO DO: display earliest, most recent, and most common year o birth
     if 'Birth_Year' in df:
         earliest = df['Birth_Year'].min()
         print(earliest)

@@ -7,7 +7,7 @@ This project is created in 28/8/2021
  US Bikeshare Data Analytics
 
 ### Description
-This project provides an interactive environment for users to filter and choose thedata he wants to be displayed. This project shows the usage pattern in three cities and compares them in term of time, places and gender
+This project provides an interactive environment for users to filter and choose the data they want to be displayed. This project shows the usage pattern in three cities (Chicago, New York City, Washington) and compares them in term of time, stations and gender 
 
 ### Files used
 chicago.csv

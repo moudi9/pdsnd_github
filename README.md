@@ -20,6 +20,10 @@ washington.csv
 
 [Udacity](https://www.udacity.com)
 
+[Google](https://www.google.com)
+
+[Github](https://github.com)
+
 [Github Docs](https://docs.github.com/en)
 
 [stackoverflow](https://stackoverflow.com)
